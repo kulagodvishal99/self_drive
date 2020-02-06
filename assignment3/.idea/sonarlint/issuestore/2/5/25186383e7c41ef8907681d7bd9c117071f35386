@@ -1,0 +1,15 @@
+
+1squid:S1220""Move this file to a named package.
+lsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‘ğ8à´¤Ûş-
+Esquid:S1659""Declare "num2" on a separate line.(¹¥·êüÿÿÿÿ8à´¤Ûş-
+V
+squid:S106	"9Replace this use of System.out or System.err by a logger.(Ç €ş8à´¤Ûş-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(²æ¸·üÿÿÿÿ8à´¤Ûş-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(óÏŒû8à´¤Ûş-
+Csquid:S34570"%String contains no format specifiers.(„”¤Ş8à´¤Ûş-
+V
+squid:S1060"9Replace this use of System.out or System.err by a logger.(„”¤Ş8à´¤Ûş-
+[
+squid:S1064"9Replace this use of System.out or System.err by a logger.(—İ™“øÿÿÿÿ8à´¤Ûş-
